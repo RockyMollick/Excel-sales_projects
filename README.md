@@ -18,9 +18,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/RockyMollick/sales_projects/blob/main/P%26L_by_year.pdf)_ & _[Months](https://github.com/RockyMollick/sales_projects/blob/main/P%26L_by_month.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/RockyMollick/sales_projects/blob/main/P%26L_for_year.pdf)_ & _[Months](https://github.com/RockyMollick/sales_projects/blob/main/P%26L_month.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/RockyMollick/sales_projects/blob/main/P%26L_for_market.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/RockyMollick/sales_projects/blob/main/P%26L_by_market.pdf)_
 
 - **Purpose of sales analytics:** Assess financial performance, aid decision-making, and enhance communication with stakeholders.
 
